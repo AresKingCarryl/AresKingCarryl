@@ -1,4 +1,4 @@
-### Hi there 👋
+## we must accept finite disappointment, but we must never lose infinite hope. —–martin luther king 👋
 
 <!--
 **AresKingCarryl/AresKingCarryl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
